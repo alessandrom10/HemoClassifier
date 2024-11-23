@@ -1,1 +1,0 @@
-File required for the folder to be actually created in the repository
