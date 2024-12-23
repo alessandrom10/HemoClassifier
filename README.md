@@ -29,5 +29,3 @@ HemoClassifier is a neural network designed to classify images of blood cells wi
 ## Why HemoClassifier?
 
 This project demonstrates the effectiveness of leveraging state-of-the-art pretrained models and applying rigorous data preparation techniques to achieve high classification accuracy in medical imaging tasks. HemoClassifier is a step forward in creating reliable and robust solutions for blood cell image classification.
-
-Feel free to explore the code, and contributions are welcome!
